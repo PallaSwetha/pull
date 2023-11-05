@@ -1,2 +1,3 @@
 In school some needful courses to be taught are self defence,plumbing ...
 Changes are made through remote repository through git hub
+changes made can be committed throgh pull
